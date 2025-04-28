@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{37C861C8-E72B-4AD7-9BC2-17EFB8E3BCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{550068DD-F1D9-4E1F-AF0F-9C5801486D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{E1651F18-8492-461A-8284-DEE4E0A42999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37C861C8-E72B-4AD7-9BC2-17EFB8E3BCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C861C8-E72B-4AD7-9BC2-17EFB8E3BCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C861C8-E72B-4AD7-9BC2-17EFB8E3BCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C861C8-E72B-4AD7-9BC2-17EFB8E3BCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550068DD-F1D9-4E1F-AF0F-9C5801486D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550068DD-F1D9-4E1F-AF0F-9C5801486D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550068DD-F1D9-4E1F-AF0F-9C5801486D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550068DD-F1D9-4E1F-AF0F-9C5801486D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1651F18-8492-461A-8284-DEE4E0A42999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1651F18-8492-461A-8284-DEE4E0A42999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1651F18-8492-461A-8284-DEE4E0A42999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1651F18-8492-461A-8284-DEE4E0A42999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC23582F-BC35-4613-A8E9-EF110CAC4676}
+	EndGlobalSection
+EndGlobal
